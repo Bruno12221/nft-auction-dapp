@@ -7,6 +7,11 @@ NFTAuction.sol - allows you to auction off your NFT-s
 NFTENSAuction.sol - allow you to auction off your ENS names 
 
 
+Tests:
+auctiontest1.js
+auctiontest2.js
+
+
 
 
 
