@@ -1,4 +1,4 @@
-A Proof Of Concept DAPP where one can mint and auction Non Funfuble Tokens
+A Proof Of Concept DAPP where one can mint and auction off Non Funfuble Tokens
 Written for solidity version 0.5.11
 
 Contracts:
