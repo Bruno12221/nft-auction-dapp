@@ -1,4 +1,6 @@
 A Proof Of Concept Decentralized application where one can mint and auction off Non Fungible Tokens
+
+
 Written for solidity version 0.5.11
 
 Contracts:
